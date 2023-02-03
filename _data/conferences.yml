@@ -1781,6 +1781,19 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170596&copyownerid=138026
+- title: ECAI
+  year: 2023
+  id: ecai23
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2023.eu/ECAI2023
+  deadline: 2023-05-02 23:59
+  place: Krakow, Poland
+  date: September 30 - October 5, 2023
+  start: '2023-09-30'
+  end: '2023-10-05'
+  sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/473
 - title: GCPR
   year: 2023
   id: gcpr23
@@ -1807,16 +1820,13 @@
   ranking: A*
   ranking_link: http://portal.core.edu.au/conf-ranks/642
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171287&copyownerid=169530
-- title: ECAI
-  year: 2023
-  id: ecai23
-  full_name: European Conference on Artificial Intelligence
-  link: https://ecai2023.eu/ECAI2023
-  deadline: 2023-05-02 23:59
-  place: Krakow, Poland
-  date: September 30 - October 5, 2023
-  start: '2023-9-30'
-  end: '2023-10-05'
-  sub: ML
-  ranking: A
-  ranking_link: http://portal.core.edu.au/conf-ranks/473
+- title: UVS-OMAN
+  year: 2024
+  id: uvs-oman24
+  full_name: International Conference on Unmanned Vehicle Systems
+  link: https://uvsc.om/
+  deadline: 2023-09-14 23:59
+  timezone: UTC-12
+  place: Muscat, Oman
+  date: February 05-07, 2024
+  sub: AD
