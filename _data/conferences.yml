@@ -2497,6 +2497,31 @@
   end: '2023-09-22'
   sub: ML
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170830&copyownerid=178834
+- title: RCAE
+  year: 2023
+  id: rcae23
+  full_name: IEEE--2023 the 6th International Conference on Robotics, Control and
+    Automation Engineering (RCAE 2023)
+  link: http://www.rcae.net/
+  deadline: 2023-06-10 23:59
+  place: Suzhou, China
+  date: October 27 - 29, 2023
+  start: '2023-10-27'
+  end: '2023-10-29'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171380&copyownerid=13881
+- title: SSCI
+  year: 2023
+  id: ssci23
+  full_name: 2023 IEEE Symposium Series on Computational Intelligence
+  link: https://attend.ieee.org/ssci-2023/
+  deadline: 2023-06-30 23:59
+  place: Mexico City, Mexico
+  date: December 5 - 8, 2023
+  start: '2023-12-05'
+  end: '2023-12-08'
+  sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=152340&copyownerid=13149
 - title: ICDM
   year: 2023
   id: icdm23
