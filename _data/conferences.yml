@@ -2462,6 +2462,18 @@
   date: September 24-28, 2023
   hindex: 49
   sub: AD
+- title: ICCVS
+  year: 2023
+  id: iccvs23
+  full_name: International Conference on Computer Vision Systems
+  link: https://icvs2023.conf.tuwien.ac.at/
+  deadline: 2023-05-29 23:59
+  timezone: CET
+  place: Vienna, Austria
+  date: September 27 - 29, 2023
+  start: '2023-09-27'
+  end: '2023-09-29'
+  sub: AD
 - title: ICINCO
   year: 2023
   id: icinco23
