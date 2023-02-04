@@ -8,19 +8,22 @@ time_format = "%Y-%m-%d %H:%M"
 
 
 def update_data_with_ai_deadlines_data():
-    ai_deadlines = load_ai_deadlines_data()
+    ad_deadlines = load_ai_deadlines_data(site="ad")
     deadlines_info = load_yaml(yaml_path_conferences, key="id")
-    for conf_id, conf_data in ai_deadlines.items():
+    for _, conf_data in ad_deadlines.items():
+        conf_data["sub"] = conf_data["sub"].replace("V2X", "AD").replace("IV", "AD").replace("AS", "AD")
+        conf_data["title"] = conf_data["title"].replace("/", "-")
+        conf_data["id"] = conf_data["title"].lower() + str(conf_data["year"])[2:]
+        conf_id = conf_data["id"]
+        if ("(ws)" in conf_data.get("title", "").lower() or "(deadline estimated)" in conf_data.get("title", "").lower()):
+            continue
         if conf_id.lower() not in list(
             set([c["id"].lower() for c in deadlines_info.values()])
         ):  # conf does not exist
-            master_data = {
-                c["title"].lower(): c for c in load_csv(csv_path_master_data)
-            }
-            master_data_match = master_data.get(conf_data["title"].lower(), None)
-            if master_data_match:
-                conf_data["full_name"] = master_data_match["full_name"]
-                deadlines_info[conf_id] = conf_data
+            if conf_data.get("long", None) is not None:
+                conf_data["full_name"] = conf_data["long"]
+                del conf_data["long"]
+            deadlines_info[conf_id] = conf_data
         else:  # conf exists -> overwrite data if mismatch
             conf_match = deadlines_info.get(conf_id)
             for key, val in conf_data.items():
@@ -34,7 +37,10 @@ def update_data_with_ai_deadlines_data():
 
     # Adjust data
     for conf_id, conf_data in deadlines_info.items():
+        delete_keys = ["host"]
         for key, val in conf_data.items():
+            if val == "--":
+                delete_keys.append(key)
             if key == "note" and val is not None:
                 conf_data[key] = val.replace("<b>NOTE</b>: ", "")
             if key == "date":
@@ -54,6 +60,8 @@ def update_data_with_ai_deadlines_data():
                     continue
                 date = dateutil.parser.parse(val)
                 conf_data[key] = date.strftime(time_format)
+        for key in delete_keys:
+            conf_data.pop(key, None)
     save_yaml(yaml_path_conferences, list(deadlines_info.values()))
 
 
