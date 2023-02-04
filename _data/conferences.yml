@@ -2242,7 +2242,7 @@
   year: 2023
   id: icip23
   full_name: International Conference on Image Processing
-  link: https://2023.ieeeicip.org/
+  link: https://2023.ieeeicip.org
   deadline: 2023-02-15 23:59
   timezone: America/Los_Angeles
   place: Kuala Lumpur, Malaysia
@@ -2437,6 +2437,19 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170596&copyownerid=138026
+- title: ECAI
+  year: 2023
+  id: ecai23
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2023.eu/ECAI2023
+  deadline: 2023-05-02 23:59
+  place: Krakow, Poland
+  date: September 30 - October 5, 2023
+  start: '2023-09-30'
+  end: '2023-10-05'
+  sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/473
 - title: ITSC
   year: 2023
   id: itsc23
