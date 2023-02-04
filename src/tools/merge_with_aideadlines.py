@@ -3,6 +3,7 @@ import dateutil.parser
 from src.config import csv_path_master_data, yaml_path_conferences
 from src.io import load_ai_deadlines_data, load_csv, load_yaml, save_yaml
 from src.scraping.utils import get_date_format_from_start_and_end
+from src.tools.sort_data import sort_data
 
 time_format = "%Y-%m-%d %H:%M"
 
@@ -59,3 +60,4 @@ def update_data_with_ai_deadlines_data():
 
 if __name__ == "__main__":
     update_data_with_ai_deadlines_data()
+    sort_data(yaml_path_conferences, True)

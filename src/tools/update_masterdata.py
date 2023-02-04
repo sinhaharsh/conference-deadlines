@@ -23,6 +23,7 @@ def update_master_data_from_conferences():
                     "sub": conf.get("sub", ""),
                 }
             )
+        # todo update full name
     save_csv(
         csv_path_master_data,
         master_data,
