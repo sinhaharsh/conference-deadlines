@@ -2,7 +2,12 @@ from dataclasses import dataclass
 from datetime import datetime, date
 from typing import Dict
 
-from src.scraping.utils import datetime_to_string, datetime_format, date_format
+from src.scraping.utils import (
+    datetime_to_string,
+    datetime_format,
+    date_format,
+    parse_date_range,
+)
 
 
 def attributes_as_dict(instance):
@@ -109,6 +114,8 @@ class ConferenceDeadline:
                         d = None
                         pass
                 self.__dict__[key] = d
+        if self.start is None or self.end is None:
+            self.start, self.end = parse_date_range(self.date)
         if self.ranking not in ["A*", "A", "B", "C"]:
             if self.ranking not in ["", "N/A", "NA"]:
                 print(f"Ranking of {self.id} set to: {self.ranking}")

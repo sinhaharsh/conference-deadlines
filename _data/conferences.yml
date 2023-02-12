@@ -183,6 +183,8 @@
   timezone: UTC-12
   place: London, UK
   date: May 3 - 7, 2021
+  start: '2021-05-03'
+  end: '2021-05-07'
   paperslink: https://dl.acm.org/doi/proceedings/10.5555/3463952
   hindex: 25
   sub: ML
@@ -240,6 +242,8 @@
   timezone: UTC-12
   place: Guangzhou, China
   date: June 7 - 12, 2021
+  start: '2021-06-07'
+  end: '2021-06-12'
   hindex: 28
   sub: ML
   note: Mandatory abstract deadline on Dec 11, 2020. More info <a href='https://icaps21.icaps-conference.org/'>here</a>.
@@ -267,6 +271,8 @@
   timezone: UTC-12
   place: Online
   date: April 8 - 10, 2021
+  start: '2021-04-08'
+  end: '2021-04-10'
   hindex: -1
   sub: ML
   note: Recommended abstract deadline on Jan 10, 2021. More info <a href='https://www.chilconference.org'>here</a>.
@@ -296,6 +302,8 @@
   timezone: UTC-12
   place: Vienna, Austria
   date: July 18 - 24, 2021
+  start: '2021-07-18'
+  end: '2021-07-24'
   hindex: 135
   sub: ML
   note: Mandatory abstract deadline on Jan 28, 2021. More info <a href='https://icml.cc/Conferences/2021/'>here</a>.
@@ -308,6 +316,8 @@
   timezone: UTC-12
   place: Singapore
   date: August 14 - 18, 2021
+  start: '2021-08-14'
+  end: '2021-08-18'
   hindex: 30
   sub: DM
 - title: SIGIR
@@ -320,6 +330,8 @@
   timezone: UTC-12
   place: Montreal, Canada
   date: July 11 - 15, 2021
+  start: '2021-07-11'
+  end: '2021-07-15'
   hindex: 57
   sub: DM
 - title: MIDL
@@ -403,6 +415,8 @@
   timezone: America/Los_Angeles
   place: Montreal, Canada
   date: October 11 - 17, 2021
+  start: '2021-10-11'
+  end: '2021-10-17'
   hindex: 176
   sub: CV
   ranking: A
@@ -463,6 +477,8 @@
   timezone: UTC-12
   place: Chengdu, China
   date: October 20 - 24, 2021
+  start: '2021-10-20'
+  end: '2021-10-24'
   hindex: 58
   sub: CV
 - title: RecSys
@@ -475,6 +491,8 @@
   timezone: UTC-12
   place: Amsterdam, Netherlands
   date: September 27 - October 1, 2021
+  start: '2021-09-27'
+  end: '2021-10-01'
   paperslink: https://recsys.acm.org/recsys21/accepted-contributions/#content-tab-1-0-tab
   hindex: 45
   sub: DM
@@ -516,6 +534,8 @@
   timezone: UTC-7
   place: Montreal, Canada
   date: October 18 - 22, 2021
+  start: '2021-10-18'
+  end: '2021-10-22'
   hindex: -1
   sub: CV
 - title: NeurIPS
@@ -545,6 +565,8 @@
   timezone: America/Los_Angeles
   place: Waikoloa, Hawaii, USA
   date: January 4 - 8, 2022
+  start: '2022-01-04'
+  end: '2022-01-08'
   hindex: 54
   sub: CV
   ranking: A
@@ -619,6 +641,8 @@
   timezone: UTC
   place: Online
   date: November 22 - 25, 2021
+  start: '2021-11-22'
+  end: '2021-11-25'
   hindex: 57
   sub: CV
   note: Mandatory abstract deadline on June 18, 2021. More info <a href='https://www.bmvc2021.com/dates/'>here</a>.
@@ -659,6 +683,8 @@
   timezone: America/Los_Angeles
   place: Philadelphia (PA), USA
   date: May 23 - 27, 2022
+  start: '2022-05-23'
+  end: '2022-05-27'
   hindex: 94
   sub: RO
 - title: ICLR
@@ -686,6 +712,8 @@
   timezone: UTC-12
   place: Singapore
   date: May 22 - 27, 2022
+  start: '2022-05-22'
+  end: '2022-05-27'
   hindex: 80
   sub: SP
 - title: AAMAS
@@ -698,6 +726,8 @@
   timezone: UTC-12
   place: Auckland, New Zealand
   date: May 11 - 13, 2022
+  start: '2022-05-11'
+  end: '2022-05-13'
   hindex: 25
   sub: ML
 - title: AISTATS
@@ -736,6 +766,8 @@
   timezone: America/Los_Angeles
   place: New Orleans, Louisiana, USA
   date: June 21 - 24, 2022
+  start: '2022-06-21'
+  end: '2022-06-24'
   hindex: 299
   sub: CV
   ranking: A
@@ -759,6 +791,8 @@
   timezone: America/Los_Angeles
   place: Taipei, Taiwan
   date: July 18 - 22, 2022
+  start: '2022-07-18'
+  end: '2022-07-22'
   hindex: 30
   sub: CV
 - title: ICAPS
@@ -785,6 +819,8 @@
   timezone: UTC
   place: Zuerich, Switzerland
   date: July 6 - 8, 2022
+  start: '2022-07-06'
+  end: '2022-07-08'
   hindex: -1
   sub: CV
 - title: LREC
@@ -823,6 +859,8 @@
   timezone: UTC-12
   place: Online
   date: April 7-8, 2022
+  start: '2022-04-07'
+  end: '2022-04-08'
   paperslink: https://www.chilconference.org/2021/proceedings.html
   hindex: -1
   sub: ML
@@ -860,6 +898,8 @@
   timezone: UTC-4
   place: Montreal, Canada
   date: August 21 - 25, 2022
+  start: '2022-08-21'
+  end: '2022-08-25'
   hindex: 69
   sub: ML
   ranking: B
@@ -1078,6 +1118,8 @@
   timezone: UTC-12
   place: Cluj-Napoca, Romania
   date: September 22-24, 2022
+  start: '2022-09-22'
+  end: '2022-09-24'
   sub: AD
 - title: RecSys
   year: 2022
@@ -1089,6 +1131,8 @@
   timezone: UTC-12
   place: Seattle, Washington, USA
   date: September 18 - September 23, 2022
+  start: '2022-09-18'
+  end: '2022-09-23'
   hindex: 45
   sub: DM
   note: Mandatory abstract deadline on April 26, 2022. More info <a href='https://recsys.acm.org/recsys22/call/'>here</a>.
@@ -1101,6 +1145,8 @@
   timezone: UTC-12
   place: San Francisco, USA
   date: August 15-18, 2022
+  start: '2022-08-15'
+  end: '2022-08-18'
   sub: ML
 - title: ICMI
   year: 2022
@@ -1124,6 +1170,8 @@
   timezone: UTC-7
   place: Bangalore, India
   date: November 07-11, 2022
+  start: '2022-11-07'
+  end: '2022-11-11'
   hindex: 34
   sub: RO
 - title: COLING
@@ -1179,6 +1227,8 @@
   timezone: UTC-12
   place: Daegu, South Korea
   date: December, 6-9, 2022
+  start: '2022-12-06'
+  end: '2022-12-09'
   sub: CG
 - title: ISMIR
   year: 2022
@@ -1203,6 +1253,8 @@
   timezone: UTC-7
   place: Prague, Czechia
   date: September 12-15, 2022
+  start: '2022-09-12'
+  end: '2022-09-15'
   hindex: 41
   sub: CV
 - title: GCPR
@@ -1214,6 +1266,8 @@
   timezone: UTC-12
   place: Konstanz, Germany
   date: September 27-30, 2022
+  start: '2022-09-27'
+  end: '2022-09-30'
   hindex: 24
   sub: ML
 - title: ICITE
@@ -1225,6 +1279,8 @@
   timezone: UTC-12
   place: Beijing, China
   date: October 28-30, 2022
+  start: '2022-10-28'
+  end: '2022-10-30'
   hindex: 8
   sub: AD
 - title: ICDM
@@ -1253,6 +1309,8 @@
   timezone: UTC+1
   place: Maldives
   date: November 16-18, 2022
+  start: '2022-11-16'
+  end: '2022-11-18'
   sub: ML
 - title: ISC2
   year: 2022
@@ -1263,6 +1321,8 @@
   timezone: UTC-12
   place: Paphos, Cyprus
   date: September 26-29, 2022
+  start: '2022-09-26'
+  end: '2022-09-29'
   hindex: 22
   sub: AD
 - title: CoRL
@@ -1285,6 +1345,8 @@
   timezone: UTC-12
   place: Cosenza, Italy
   date: October, 03-05, 2022
+  start: '2022-10-03'
+  end: '2022-10-05'
   hindex: 9
   sub: DM
   note: 'Industry Session Deadline: 16 June 2022'
@@ -1325,6 +1387,8 @@
   timezone: UTC-12
   place: Shanghai, China
   date: September 22-23, 2022
+  start: '2022-09-22'
+  end: '2022-09-23'
   sub: AD
 - title: ICCPS
   year: 2023
@@ -1351,6 +1415,8 @@
   timezone: UTC-4
   place: Nassau, Bahamas
   date: December 12 - 15, 2022
+  start: '2022-12-12'
+  end: '2022-12-15'
   sub: ML
   ranking: C
 - title: WACV
@@ -1388,6 +1454,8 @@
   timezone: UTC-12
   place: Singapore
   date: December 04-07, 2022
+  start: '2022-12-04'
+  end: '2022-12-07'
   hindex: 31
   sub: ML
 - title: BMVC
@@ -1412,6 +1480,8 @@
   timezone: UTC-12
   place: Atlanta, USA
   date: January 17-20, 2023
+  start: '2023-01-17'
+  end: '2023-01-20'
   hindex: 13
   sub: AD
 - title: ICVES
@@ -1423,6 +1493,8 @@
   timezone: UTC-12
   place: Bogota, Colombia
   date: November 14-16, 2022
+  start: '2022-11-14'
+  end: '2022-11-16'
   hindex: 15
   sub: AD
 - title: WSDM
@@ -1463,6 +1535,8 @@
   timezone: UTC-12
   place: Kyoto, Japan
   date: December 13-16, 2022
+  start: '2022-12-13'
+  end: '2022-12-16'
   hindex: 45
   sub: DM
 - title: RCAE
@@ -1474,6 +1548,8 @@
   timezone: UTC-12
   place: Changchun, China
   date: October 28-30, 2022
+  start: '2022-10-28'
+  end: '2022-10-30'
   hindex: 5
   sub: RO
 - title: TPS
@@ -1486,6 +1562,8 @@
   timezone: UTC-12
   place: Las Vegas, USA
   date: December 14-16, 2022
+  start: '2022-12-14'
+  end: '2022-12-16'
   sub: AD
 - title: SATML
   year: 2023
@@ -1527,6 +1605,8 @@
   timezone: UTC-12
   place: Virtual
   date: October 22-25, 2022
+  start: '2022-10-22'
+  end: '2022-10-25'
   sub: AD
 - title: ICRA
   year: 2023
@@ -1584,6 +1664,8 @@
   timezone: America/New_York
   place: Singapore
   date: February 20-23, 2023
+  start: '2023-02-20'
+  end: '2023-02-23'
   hindex: 26
   sub: ML
 - title: SDM
@@ -1595,6 +1677,8 @@
   timezone: UTC-4
   place: Hybrid
   date: July 11 - 15, 2022
+  start: '2022-07-11'
+  end: '2022-07-15'
   hindex: 33
   sub: DM
 - title: HRI
@@ -1606,6 +1690,8 @@
   timezone: UTC-12
   place: Stockholm, Sweden
   date: March 13-16, 2023
+  start: '2023-03-13'
+  end: '2023-03-16'
   hindex: 47
   sub: RO
 - title: ACCV
@@ -1617,6 +1703,8 @@
   timezone: UTC
   place: Macau, SAR
   date: December 04-08, 2022
+  start: '2022-12-04'
+  end: '2022-12-08'
   hindex: 43
   sub: CV
 - title: SDM
@@ -1687,6 +1775,8 @@
   timezone: UTC-12
   place: Nice, France
   date: June 14-16, 2023
+  start: '2023-06-14'
+  end: '2023-06-16'
   hindex: 21
   sub: AD
 - title: EACL
@@ -1803,6 +1893,8 @@
   timezone: UTC-12
   place: Laquila, Italy
   date: March 13-17, 2023
+  start: '2023-03-13'
+  end: '2023-03-17'
   hindex: 17
   sub: AD
 - title: CVPR
@@ -1975,6 +2067,8 @@
   timezone: UTC-12
   place: Stuttgart, Germany
   date: July 4-5, 2023
+  start: '2023-07-04'
+  end: '2023-07-05'
   hindex: 10
   sub: AD
 - title: SIGIR
@@ -2003,6 +2097,8 @@
   timezone: UTC
   place: Los Angeles, USA
   date: August 6-10, 2023
+  start: '2023-08-06'
+  end: '2023-08-10'
   hindex: 19
   sub: CV
 - title: ESEC-FSE
@@ -2074,6 +2170,8 @@
   timezone: UTC-12
   place: Berlin, Germany
   date: June 05-07, 2023
+  start: '2023-06-05'
+  end: '2023-06-07'
   hindex: 11
   sub: RO
 - title: MED
@@ -2085,6 +2183,8 @@
   timezone: UTC-12
   place: Cyprus, Greece
   date: June 26-29, 2023
+  start: '2023-06-26'
+  end: '2023-06-29'
   hindex: 16
   sub: AD
 - title: ITAVT
@@ -2097,6 +2197,8 @@
   timezone: UTC-12
   place: Florida, USA
   date: May 08-12, 2023
+  start: '2023-05-08'
+  end: '2023-05-12'
   sub: AD
 - title: IV
   year: 2023
@@ -2121,6 +2223,8 @@
   timezone: America/Los_Angeles
   place: Hawaii, USA
   date: June 25-28, 2023
+  start: '2023-06-25'
+  end: '2023-06-28'
   hindex: 18
   sub: RO
 - title: KDD
@@ -2174,6 +2278,8 @@
   timezone: UTC-12
   place: Heraklion, Greece
   date: September 20-22, 2023
+  start: '2023-09-20'
+  end: '2023-09-22'
   sub: AD
 - title: SAFECOMP
   year: 2023
@@ -2200,6 +2306,8 @@
   timezone: UTC-12
   place: Changsha, China
   date: May 26-28, 2023
+  start: '2023-05-26'
+  end: '2023-05-28'
   sub: AD
 - title: COLT
   year: 2023
@@ -2210,6 +2318,8 @@
   timezone: UTC-8
   place: Bangalore, India
   date: July 12-15, 2023
+  start: '2023-07-12'
+  end: '2023-07-15'
   hindex: 63
   sub: ML
 - title: FUSION
@@ -2279,6 +2389,8 @@
   timezone: UTC
   place: Ontario, Canada
   date: June 19-13, 2023
+  start: '2023-06-19'
+  end: '2023-06-13'
   hindex: 18
   sub: ML
 - title: InterSpeech
@@ -2409,6 +2521,8 @@
   timezone: UTC-12
   place: Hawaii, USA
   date: October 1-4, 2023
+  start: '2023-10-01'
+  end: '2023-10-04'
   hindex: 31
   sub: AD
 - title: ETFA
@@ -2460,6 +2574,8 @@
   timezone: UTC-12
   place: Bilbao, Spain
   date: September 24-28, 2023
+  start: '2023-09-24'
+  end: '2023-09-28'
   hindex: 49
   sub: AD
 - title: ICCVS
@@ -2483,6 +2599,8 @@
   timezone: UTC-12
   place: Rome, Italy
   date: November 13-15, 2023
+  start: '2023-11-13'
+  end: '2023-11-15'
   hindex: 15
   sub: RO
 - title: GCPR
@@ -2545,4 +2663,6 @@
   timezone: UTC-12
   place: Muscat, Oman
   date: February 05-07, 2024
+  start: '2024-02-05'
+  end: '2024-02-07'
   sub: AD
