@@ -1732,6 +1732,8 @@
   timezone: UTC-12
   place: Ingolstadt, Germany
   date: December 08, 2022
+  start: '2022-12-08'
+  end: '2022-12-08'
   sub: AD
 - title: WWW
   year: 2023
@@ -2347,6 +2349,8 @@
   timezone: UTC-12
   place: Rwanda, Africa
   date: May 5, 2023
+  start: '2023-05-05'
+  end: '2023-05-05'
   sub: AD
 - title: ICIP
   year: 2023
@@ -2445,6 +2449,8 @@
   timezone: UTC-12
   place: Montreal, Canada
   date: August, 2023
+  start: '2023-08-12'
+  end: '2023-08-12'
   sub: ML
 - title: ICPRS
   year: 2023

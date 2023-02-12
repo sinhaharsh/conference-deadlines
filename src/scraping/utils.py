@@ -51,14 +51,11 @@ def parse_date_range(date_range_str):
             month = start_date.strftime("%B")
             end_date_str = month + " " + end_date_str
         # Use dateutil's parser to parse the end date string
-        # print(end_date_str)
-        # print(date_range_str)
         end_date = parser.parse(end_date_str)
     else:
-        try:
+        if date_range_str != "":
             start_date = parser.parse(date_range_str)
-        except:
-            print(date_range_str)
-        start_date = None
-        end_date = start_date
+            end_date = start_date
+        else:
+            start_date, end_date = None, None
     return start_date, end_date
