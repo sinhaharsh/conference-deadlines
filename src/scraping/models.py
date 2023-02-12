@@ -119,7 +119,8 @@ class ConferenceDeadline:
         if self.ranking not in ["A*", "A", "B", "C"]:
             if self.ranking not in ["", "N/A", "NA"]:
                 print(f"Ranking of {self.id} set to: {self.ranking}")
-            self.ranking = ""
+            else:
+                self.ranking = ""
         elif self.ranking == "A*":
             self.ranking = "As"
         return self
