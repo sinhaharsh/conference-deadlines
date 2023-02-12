@@ -123,6 +123,7 @@ class ConferenceDeadline:
                 self.ranking = ""
         elif self.ranking == "A*":
             self.ranking = "As"
+        self.sub = self.sub.replace("CG", "CV")
         return self
 
     def as_dict(self) -> Dict:

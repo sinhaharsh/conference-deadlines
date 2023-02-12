@@ -932,7 +932,7 @@
   start: '2022-08-08'
   end: '2022-08-11'
   hindex: 19
-  sub: CG
+  sub: CV
   note: Mandatory abstract deadline on Jan 26, 2022. More info <a href='https://s2022.siggraph.org/program/technical-papers/'>here</a>.
 - title: RSS
   year: 2022
@@ -1229,7 +1229,7 @@
   date: December, 6-9, 2022
   start: '2022-12-06'
   end: '2022-12-09'
-  sub: CG
+  sub: CV
 - title: ISMIR
   year: 2022
   id: ismir22
@@ -1842,7 +1842,7 @@
   end: '2023-04-14'
   paperslink: https://evomusart-index.dei.uc.pt/
   hindex: 12
-  sub: CG
+  sub: CV
   note: part of evostar 2023
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=166206&copyownerid=31943
 - title: ICPRAM
@@ -1950,6 +1950,18 @@
   ranking_link: http://portal.core.edu.au/conf-ranks/919
   note: Mandatory abstract deadline on November 25, 2022. More info <a href='https://icaps23.icaps-conference.org/'>here</a>.
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170127&copyownerid=106070
+- title: ESWC
+  year: 2023
+  id: eswc23
+  full_name: Extended Semantic Web Conference
+  link: https://2023.eswc-conferences.org/
+  deadline: 2022-12-08 23:59
+  timezone: UTC-12
+  place: Hersonissos, Greece
+  date: May 28 - June 1, 2023
+  start: '2023-05-28'
+  end: '2023-06-01'
+  sub: DM
 - title: VTC
   year: 2023
   id: vtc23
@@ -2557,6 +2569,18 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170596&copyownerid=138026
+- title: WSWC
+  year: 2023
+  id: iswc23
+  full_name: International Semantic Web Conference
+  link: https://iswc2023.semanticweb.org/
+  deadline: 2023-05-02 23:59
+  timezone: UTC-12
+  place: Athens, Greece
+  date: November 06-10, 2023
+  start: '2023-11-06'
+  end: '2023-11-10'
+  sub: DM
 - title: ECAI
   year: 2023
   id: ecai23
