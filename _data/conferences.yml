@@ -2697,6 +2697,18 @@
   ranking: As
   ranking_link: http://portal.core.edu.au/conf-ranks/642
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171287&copyownerid=169530
+- title: SII
+  year: 2024
+  id: sii24
+  full_name: The 16th IEEE/SICE International Symposium on System Integration
+  link: https://sice-si.org/SII2024/
+  deadline: 2023-08-01 23:59
+  place: Ha Long, Viet Nam
+  date: January 8 - 11, 2024
+  start: '2024-01-08'
+  end: '2024-01-11'
+  sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171853&copyownerid=179661
 - title: UVS-OMAN
   year: 2024
   id: uvs-oman24
