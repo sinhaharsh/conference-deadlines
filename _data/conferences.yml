@@ -2524,12 +2524,27 @@
   id: automl-conf23
   link: https://2023.automl.cc
   deadline: 2023-03-23 23:59
+  abstract_deadline: 2023-03-16 23:59
   timezone: UTC-12
   place: Potsdam/Berlin, Germany
   date: September 12 - 15, 2023
   start: '2023-09-12'
   end: '2023-09-15'
   hindex: 0
+- title: ECMLPKDD
+  year: 2023
+  id: ecml23
+  full_name: European Conference on Machine Learning and Principles and Practice of
+    Knowledge Discovery in Databases
+  link: https://2023.ecmlpkdd.org/
+  deadline: 2023-03-26 23:59
+  place: Torino, Italy
+  date: September 18 - 22, 2023
+  start: '2023-09-18'
+  end: '2023-09-22'
+  sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/491
 - title: SMC
   year: 2023
   id: smc23
@@ -2543,6 +2558,17 @@
   end: '2023-10-04'
   hindex: 31
   sub: AD
+- title: RO-MAN
+  year: 2023
+  id: ro-man23
+  link: http://ro-man2023.org/main
+  deadline: 2023-03-31 23:59
+  timezone: UTC-12
+  place: Busan, South Korea
+  date: August 28 - 31, 2023
+  start: '2023-08-28'
+  end: '2023-08-31'
+  sub: RO
 - title: ETFA
   year: 2023
   id: etfa23
@@ -2569,6 +2595,20 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170596&copyownerid=138026
+- title: MM
+  year: 2023
+  id: mm23
+  full_name: ACM International Conference on Multimedia
+  link: https://www.acmmm2023.org/
+  deadline: 2023-04-30 23:59
+  abstract_deadline: 2023-04-23 23:59
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: October 29 - November 3, 2023
+  start: '2023-10-29'
+  end: '2023-11-03'
+  sub: CV
+  note: Mandatory abstract deadline on April 23, 2023. More info <a href='https://www.acmmm2023.org/cfp/'>here</a>.
 - title: WSWC
   year: 2023
   id: iswc23
@@ -2594,19 +2634,20 @@
   sub: ML
   ranking: A
   ranking_link: http://portal.core.edu.au/conf-ranks/473
-- title: ECMLPKDD
+- title: BMVC
   year: 2023
-  id: ecml23
-  full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
-  link: https://2023.ecmlpkdd.org/
-  deadline: 2023-03-26 23:59
-  place: Torino, Italy
-  date: September 18 - 22, 2023
-  start: '2023-09-18'
-  end: '2023-09-22'
-  sub: ML
-  ranking: A
-  ranking_link: http://portal.core.edu.au/conf-ranks/491
+  id: bmvc23
+  full_name: British Machine Vision Conference
+  link: https://www.bmvc2023.org
+  deadline: 2023-05-12 23:59
+  timezone: UTC
+  place: Aberdeen, UK
+  date: November 20 - 24, 2023
+  start: '2023-11-20'
+  end: '2023-11-24'
+  hindex: 75
+  sub: CV
+  note: Workshop Submission Deadline on May 5th, 2023
 - title: ITSC
   year: 2023
   id: itsc23
@@ -2621,6 +2662,33 @@
   end: '2023-09-28'
   hindex: 49
   sub: AD
+- title: SIGGRAPHASIAConf
+  year: 2023
+  id: siggraphasia23
+  full_name: SIGGRAPH ASIA 2023
+  link: https://asia.siggraph.org/2023/
+  deadline: 2023-05-16 23:59
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: December, 12-15, 2023
+  start: '2023-12-12'
+  end: '2023-12-15'
+  sub: CV
+- title: NeurIPS
+  year: 2023
+  id: neurips23
+  full_name: Neural Information Processing Systems
+  link: https://neurips.cc/Conferences/2023/
+  deadline: 2023-05-17 23:59
+  abstract_deadline: 2023-05-11 23:59
+  timezone: UTC
+  place: New Orleans, Louisiana, USA
+  date: December 10 - 16, 2023
+  start: '2023-12-10'
+  end: '2023-12-16'
+  hindex: 278
+  sub: ML
+  note: Mandatory abstract deadline on May 11, 2023
 - title: ICCVS
   year: 2023
   id: iccvs23
@@ -2658,6 +2726,18 @@
   end: '2023-09-22'
   sub: ML
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170830&copyownerid=178834
+- title: CoRL
+  year: 2023
+  id: corl23
+  full_name: Conference on Robot Learning
+  link: https://corl2023.org
+  deadline: 2023-06-08 23:59
+  timezone: UTC-12
+  place: Atlanta, Georgia, USA
+  date: November 6 - 9, 2023
+  start: '2023-11-06'
+  end: '2023-11-09'
+  sub: RO
 - title: RCAE
   year: 2023
   id: rcae23
@@ -2689,7 +2769,9 @@
   full_name: International Conference on Data Mining
   link: http://www.cloud-conf.net/icdm2023/index.html
   deadline: 2023-07-01 23:59
-  place: Shanghai, China (hybrid)
+  abstract_deadline: 2023-07-01 23:59
+  timezone: Etc/GMT+8
+  place: Shanghai, China
   date: December 1 - 4, 2023
   start: '2023-12-01'
   end: '2023-12-04'
