@@ -2581,6 +2581,19 @@
   end: '2023-09-15'
   sub: APL
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171308&copyownerid=38122
+- title: AITEST
+  year: 2023
+  id: aitest23
+  full_name: 'IEEE AITEST 2022 : THE 5TH IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL
+    INTELLIGENCE TESTING'
+  link: https://ieeeaitest.com/
+  deadline: 2023-04-07 23:59
+  place: Athens, Greece
+  date: July 17 - 20, 2023
+  start: '2023-07-17'
+  end: '2023-07-20'
+  sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=172441&copyownerid=180244
 - title: ICANN
   year: 2023
   id: icann23
@@ -2595,6 +2608,20 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170596&copyownerid=138026
+- title: RECSYS
+  year: 2023
+  id: recsys23
+  full_name: Conference on Recommender Systems
+  link: https://recsys.acm.org/recsys23
+  deadline: 2023-04-21 23:59
+  abstract_deadline: 2023-04-14 23:59
+  place: Singapore
+  date: September 18 - 22, 2023
+  start: '2023-09-18'
+  end: '2023-09-22'
+  sub: DM
+  note: 'Abstract deadline: April 14, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171978&copyownerid=179760
 - title: MM
   year: 2023
   id: mm23
@@ -2779,6 +2806,20 @@
   ranking: As
   ranking_link: http://portal.core.edu.au/conf-ranks/642
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171287&copyownerid=169530
+- title: ICMLA
+  year: 2023
+  id: icmla23
+  full_name: International Conference on Machine Learning and Applications
+  link: https://www.icmla-conference.org/icmla23/
+  deadline: 2023-07-15 23:59
+  place: Florida, USA
+  date: December 15 - 17, 2023
+  start: '2023-12-15'
+  end: '2023-12-17'
+  sub: APL
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/1122
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171992&copyownerid=179773
 - title: SII
   year: 2024
   id: sii24
