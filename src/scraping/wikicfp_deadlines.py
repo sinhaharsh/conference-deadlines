@@ -30,6 +30,7 @@ from src.scraping.utils import (
 
 project_root = Path(__file__).parent.parent
 
+WIKICFP_SLEEP = 5
 
 def scrape_update_suggestions_from_wikicfp():
     conference_deadlines = [
@@ -84,13 +85,13 @@ def scrape_new_conference_deadline(
         conference, conference_candidates
     )
     for conference_data in best_conference_candidates:
-        time.sleep(5)
+        time.sleep(WIKICFP_SLEEP)
         conference_details = extract_data_from_website(conference_data.wikicfp_link)
         conference_deadline = convert_wikicfp2deadline(
             {**conference_details, **conference_data.__dict__}, conference
         )
         return conference_deadline  # currently only use best one
-    time.sleep(5)
+    time.sleep(WIKICFP_SLEEP)
 
 
 def update_conference_deadlines(
