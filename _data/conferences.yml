@@ -2323,6 +2323,7 @@
   start: '2023-05-26'
   end: '2023-05-28'
   sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=86355&copyownerid=139659
 - title: COLT
   year: 2023
   id: colt23
@@ -2415,6 +2416,7 @@
   full_name: Conference of the International Speech Communication Association
   link: http://www.interspeech2023.org/
   deadline: 2023-03-01 23:59
+  abstract_deadline: 2023-03-01 23:59
   timezone: UTC-12
   place: Dublin, Ireland
   date: August 30 - September 3, 2023
@@ -2422,6 +2424,8 @@
   end: '2023-09-03'
   hindex: 100
   sub: SP
+  note: 'Abstract deadline: March 1, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171895&copyownerid=179716
 - title: CASE
   year: 2023
   id: case23
@@ -2558,6 +2562,9 @@
   end: '2023-10-04'
   hindex: 31
   sub: AD
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/611
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=172088&copyownerid=164924
 - title: RO-MAN
   year: 2023
   id: ro-man23
@@ -2654,6 +2661,7 @@
   full_name: European Conference on Artificial Intelligence
   link: https://ecai2023.eu/ECAI2023
   deadline: 2023-05-02 23:59
+  abstract_deadline: 2023-05-02 23:59
   place: Krakow, Poland
   date: September 30 - October 5, 2023
   start: '2023-09-30'
@@ -2661,6 +2669,8 @@
   sub: ML
   ranking: A
   ranking_link: http://portal.core.edu.au/conf-ranks/473
+  note: 'Abstract deadline: May 2, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171991&copyownerid=179773
 - title: BMVC
   year: 2023
   id: bmvc23
@@ -2741,6 +2751,9 @@
   end: '2023-11-15'
   hindex: 15
   sub: RO
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/2226
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170638&copyownerid=45217
 - title: GCPR
   year: 2023
   id: gcpr23
