@@ -2767,7 +2767,10 @@
   start: '2023-10-23'
   end: '2023-10-25'
   sub: KR
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/25
   note: Check the conference website for workshop and demo deadlines
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171286&copyownerid=169530
 - title: GCPR
   year: 2023
   id: gcpr23
@@ -2830,6 +2833,7 @@
   start: '2023-11-11'
   end: '2023-11-14'
   sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=172675&copyownerid=104893
 - title: EMNLP
   year: 2023
   id: emnlp23
@@ -2843,7 +2847,10 @@
   start: '2023-12-06'
   end: '2023-12-10'
   sub: NLP
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/448
   note: Hybrid format with ARR and START. More info <a href='https://2023.emnlp.org/calls/papers/Overview'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=172917&copyownerid=2468
 - title: SSCI
   year: 2023
   id: ssci23
