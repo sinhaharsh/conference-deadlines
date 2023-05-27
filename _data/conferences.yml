@@ -11,16 +11,29 @@
   end: '2023-11-28'
   paperslink: https://ml4health.github.io/online_proceedings.html
   sub: MLH
-- title: HRI
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: 2024-10-01 23:59
-  timezone: America/Los_Angeles
-  place: Cambridge, UK
-  date: March 23 - 26, 2020
-  start: '2020-03-23'
-  end: '2020-03-26'
-  paperslink: https://dl.acm.org/doi/proceedings/10.1145/3319502
-  hindex: 40
-  sub: RO
+- title: INCF
+  year: 2023
+  id: incf24
+  full_name: INCF Neuroinformatics Assembly
+  link: https://neuroinformatics.incf.org/
+  deadline: 2023-06-23 23:59
+  timezone: America/New_York
+  place: Virtual
+  date: June 23, 2023
+  start: '2023-09-18'
+  end: '2023-09-20'
+  sub: NI
+  note: Abstract submission deadline
+- title: OHBM
+  year: 2024
+  id: ohbm24
+  full_name: OHBM Annual Meeting
+  link: https://www.humanbrainmapping.org/
+  deadline: 2024-01-13 23:59
+  timezone: America/New_York
+  place: Seoul, Korea
+  date: June 23, 2024
+  start: '2024-06-23'
+  end: '2024-06-27'
+  sub: NI
+  note: Abstract submission deadline

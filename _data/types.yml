@@ -2,21 +2,18 @@
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
-- name: Robotics
-  sub: RO
+- name: Neuroimaging
+  sub: NI
   color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
-  color: "#580aff"
-- name: Data Mining/Web Science
-  sub: DM
-  color: "#0aefff"
+# - name: Speech/SigProc
+#   sub: SP
+#   color: "#580aff"
 - name: Applications
   sub: APL
   color: "#be0aff"
-- name: Autonomous Driving
-  sub: AD
-  color: "#be0aff"
+# - name: Autonomous Driving
+#   sub: AD
+#   color: "#be0aff"
 - name: Machine Learning in Health
   sub: MLH
-  color: "#ffd300"
+  color: "#0aefff"

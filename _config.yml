@@ -1,14 +1,14 @@
 title: AI Conference Deadlines
-description: Countdowns to CV/NLP/ML/Robotics/AI conference deadlines. Overview of deadlines and conference dates in a calendar.
-author: Alexander Naumann
+description: Countdowns to my conference deadlines. Overview of deadlines and conference dates in a calendar.
+author: Harsh Sinha
 
 domain: "https://sinhaharsh.github.io/"
 baseurl: "/conference-deadlines"
 
 twitter:
-  username: AlexN4u
+  username: sinhaharsh_
   hashtag: machinelearning
-github_username: a-nau
+github_username: sinhaharsh
 github_repo: conference-deadlines
 
 markdown: kramdown
