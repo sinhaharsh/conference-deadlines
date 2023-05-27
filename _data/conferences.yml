@@ -11,3 +11,16 @@
   end: '2023-11-28'
   paperslink: https://ml4health.github.io/online_proceedings.html
   sub: MLH
+- title: HRI
+  year: 2020
+  id: hri20
+  link: https://humanrobotinteraction.org/2020/
+  deadline: 2024-10-01 23:59
+  timezone: America/Los_Angeles
+  place: Cambridge, UK
+  date: March 23 - 26, 2020
+  start: '2020-03-23'
+  end: '2020-03-26'
+  paperslink: https://dl.acm.org/doi/proceedings/10.1145/3319502
+  hindex: 40
+  sub: RO
