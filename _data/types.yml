@@ -1,28 +1,31 @@
 ---
-- name: Machine Learning
-  sub: ML
-  color: "#ffd300"
-- name: Computer Vision
-  sub: CV
-  color: "#deff0a"
+# - name: Machine Learning
+#   sub: ML
+#   color: "#ffd300"
+# - name: Computer Vision
+#   sub: CV
+#   color: "#deff0a"
 #- name: Computer Graphics
 #  sub: CG
 #  color: "#0aefff"
-- name: Natural Language Proc
-  sub: NLP
-  color: "#147df5"
-- name: Robotics
-  sub: RO
-  color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
-  color: "#580aff"
-- name: Data Mining/Web Science
-  sub: DM
-  color: "#0aefff"
-- name: Applications
-  sub: APL
-  color: "#be0aff"
-- name: Autonomous Driving
-  sub: AD
-  color: "#be0aff"
+# - name: Natural Language Proc
+#   sub: NLP
+#   color: "#147df5"
+# - name: Robotics
+#   sub: RO
+#   color: "#0aff99"
+# - name: Speech/SigProc
+#   sub: SP
+#   color: "#580aff"
+# - name: Data Mining/Web Science
+#   sub: DM
+#   color: "#0aefff"
+# - name: Applications
+#   sub: APL
+#   color: "#be0aff"
+# - name: Autonomous Driving
+#   sub: AD
+#   color: "#be0aff"
+- name: Machine Learning in Health
+  sub: MLH
+  color: "#ffd300"
