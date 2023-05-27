@@ -2,8 +2,8 @@ title: AI Conference Deadlines
 description: Countdowns to CV/NLP/ML/Robotics/AI conference deadlines. Overview of deadlines and conference dates in a calendar.
 author: Alexander Naumann
 
-domain: "deadlines.info"
-baseurl: ""
+domain: ""
+baseurl: "https://sinhaharsh.github.io/conference-deadlines"
 
 twitter:
   username: AlexN4u
