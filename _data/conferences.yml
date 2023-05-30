@@ -89,12 +89,32 @@
   end: '2027-05-13'
   sub: NI
   note: Abstract submission deadline
+- title: MLHC
+  year: 2024
+  id: mlhc24
+  full_name: Machine Learning for Healthcare 2024
+  link: https://www.mlforhc.org/
+  deadline: 2024-04-24 23:59
+  timezone: America/New_York
+  place: New York, United States
+  date: August 11, 2024
+  start: '2024-08-11'
+  end: '2024-08-12'
+  sub: MLH
+- title: CHIL
+  year: 2024
+  id: chil24
+  full_name: Conference on Health, Inference and Learning
+  link: https://www.chilconference.org/index.html
+  deadline: 2024-02-15 23:59
+  timezone: America/New_York
+  place: Cambridge, MA, United States
+  date: June 22, 2024
+  start: '2024-06-22'
+  end: '2024-06-24'
+  sub: MLH
 
 
-
-- title: ISMRM
-  year: 2025
-  
   
   
   
