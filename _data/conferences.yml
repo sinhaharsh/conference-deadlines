@@ -1,3 +1,16 @@
+- title: AIME
+  year: 2024
+  id: aime24
+  full_name: International Conference on Artificial Intelligence in Medicine
+  link: https://aime23.aimedicine.info/index.php
+  deadline: 2024-01-15 23:59
+  timezone: America/New_York
+  place: New Orleans, United States
+  date: June 12, 2024
+  start: '2024-06-12'
+  end: '2024-06-15'
+  paperslink: https://link.springer.com/book/10.1007/978-3-031-34344-5
+  sub: MLH
 - title: ML4H
   year: 2023
   id: ml4h23
