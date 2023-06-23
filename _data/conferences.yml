@@ -11,7 +11,6 @@
   end: '2024-10-10'
   paperslink: https://conferences.miccai.org/2022/en/PROCEEDINGS.html
   sub: MLH
-- title: ML4H
 - title: AIME
   year: 2024
   id: aime24
