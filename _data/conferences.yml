@@ -1,3 +1,17 @@
+- title: MICCAI
+  year: 2024
+  id: miccai24
+  full_name: 
+  link: https://conferences.miccai.org/2024/en/
+  deadline: 2024-02-15 23:59
+  timezone: America/New_York
+  place: Marrakesh, Morocco
+  date: Oct 6, 2024
+  start: '2024-10-06'
+  end: '2024-10-10'
+  paperslink: https://conferences.miccai.org/2022/en/PROCEEDINGS.html
+  sub: MLH
+- title: ML4H
 - title: AIME
   year: 2024
   id: aime24
