@@ -1,3 +1,17 @@
+- title: ISBI
+  year: 2024
+  id: isbi24
+  full_name: IEEE International Symposium on Biomedical Imaging 
+  link: https://2023.biomedicalimaging.org/en/
+  deadline: 2023-11-10 23:59
+  timezone: America/New_York
+  place: Athens, Greece
+  date: May 27, 2024
+  start: '2024-05-27'
+  end: '2024-05-30'
+  paperslink: https://biomedicalimaging.org/2024/
+  sub: MLH
+  note: 1-page abstract deadline (Feb 26 2024)
 - title: MICCAI
   year: 2024
   id: miccai24
