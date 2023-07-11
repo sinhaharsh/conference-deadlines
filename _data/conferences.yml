@@ -1,3 +1,15 @@
+- title: NeurIPS Workshops
+  year: 2023
+  id: neurips23
+  full_name: Neural Information Processing Systems 
+  link: https://nips.cc/virtual/2023/events/workshop
+  deadline: 2023-09-29 23:59
+  timezone: America/Los_Angeles
+  place: New Orleans
+  date: Dec 15, 2023
+  start: '2023-12-15'
+  end: '2023-12-16'
+  sub: ML
 - title: ISBI
   year: 2024
   id: isbi24
