@@ -1,3 +1,15 @@
+- title: BS Travel Award
+  year: 2024
+  id: bstravel24
+  full_name: Brain Sciences 2024 Travel Award 
+  link: https://www.mdpi.com/journal/brainsci/awards/2420
+  deadline: 2023-11-30 23:59
+  timezone: America/Los_Angeles
+  place: Virtual
+  date: Jan 31, 2024
+  start: '2024-01-31'
+  end: '2024-01-31'
+  sub: APL
 - title: NeurIPS Workshops
   year: 2023
   id: neurips23
